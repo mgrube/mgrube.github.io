@@ -5,4 +5,4 @@ date: 2015-01-01 19:00:00
 categories: nvidia tk1 
 ---
 
-{% image http://mgrube.github.io/Jetson_TK1.jpg %}
+![Jetson Board][http://mgrube.github.io/Jetson_TK1.jpg]
