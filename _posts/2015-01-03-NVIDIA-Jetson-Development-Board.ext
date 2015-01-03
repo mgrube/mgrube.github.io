@@ -13,12 +13,15 @@ My first publicly documented project will be some some code for the NVIDIA Jetso
 
 My board is still in the mail, so I'm a bit fuzzy on some details. I will also need to order a hard disk for this board. I plan to use this board as a network appliance. With the power consumption being so log for this device, I plan on taking a look at a few different topics.
 
-
+<br>
 
 1. Cryptocurrency Mining(Obviously)
-+ Peer to peer caching and resource sharing
-* Packet Inpection
-+ Freenet?
+<br>
+2. Peer to peer caching and resource sharing
+<br>
+3. Packet Inpection
+<br>
+4. Freenet?
 
 I'll post some power consumption vs. hashrates as soon as I get the board up and running. I'm still in the process of picking a direction. Freenet is a more interesting route than it might sound - with a GPU and a hard disk, the performance may be good enough to function as an appliance.
 
