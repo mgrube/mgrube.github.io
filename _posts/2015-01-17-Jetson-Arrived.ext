@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "We Have Arrived"
+date:   2015-01-17 13:28:00
+categories: nviida tk1 projects
+---
+
+The Jetson board has finally made its way to me from San Francisco! The board has been re-flashed with the latest Jetpack distribution and updated with CUDA 6.5 drivers. So from a GPU computing standpoint, we're looking pretty good! Still waiting for the SSD to arrive, but that's not a roadblock at the moment.
+
+Some of the most interesting basic data about a board like this is in power consumption. Idling and not consuming any CPU, the board uses about <insert number here> Watts. Here's a table with a breakdown of how power consumption looks:
+
+(show numbers including idle, CPU Max, GPU Max and both Max)
+
+When you compare those numbers to a standard desktop GPU, which can consume hundreds of Watts, the difference is pretty substantial.
+
+On the project front, I've decided on a direction to go. While it would be beneficial for people to try simple things like password cracking, cryptocurrency mining, or using OpenCV for a specific application, I believe it would be better to create a platform that allows other people to use low-power systems like this to their full potential. I believe these low-power GPU systems offer a new opportunity to 
+I still have some research to do, but essentially I'm going to create a consensus-based distributed computing platform for processing generic signals using the GPU. This could be anything from weather data to packet captures. Users will be able to connect to peers and decided on a pre-defined problem and dataset. 
+
+My task for this weekend is essentially to create a design documennt for this project. 
+
+Just for fun, I've decided that I will also collect Joule/Hashrate numbers for Scrypt and SHA256 for the Jetson board. Hopefully there will be some kind of update on Sunday.
