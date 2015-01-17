@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We Have Arrived"
+title:  "Board Has Arrived!"
 date:   2015-01-17 13:28:00
 categories: nviida tk1 projects
 ---
@@ -20,7 +20,7 @@ CPU Heavy Load: 9.7 W<br>
 GPU Heavy Load: 4.7 W<br>
 Both Heavy Load: 12.0 W<br>
 
-<br><br>
+<br>
 When you compare those numbers to a standard desktop GPU, which can consume hundreds of Watts, the difference is pretty substantial.<br><br>
 
 On the project front, I've decided on a direction to go. While it would be beneficial for people to try simple things like password cracking, cryptocurrency mining, or using OpenCV for a specific application, I believe it would be better to create a platform that allows other people to use low-power systems like this to their full potential. I believe these low-power GPU systems offer a new opportunity to <br><br>
