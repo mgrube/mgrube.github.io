@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the about page for my stupid blog that I don't have any content for yet.
+This blog's primary purpose is to document my work on the NVIIDA Tegra TK1 Development board.
