@@ -26,6 +26,6 @@ When you compare those numbers to a standard desktop GPU, which can consume hund
 On the project front, I've decided on a direction to go. While it would be beneficial for people to try simple things like password cracking, cryptocurrency mining, or using OpenCV for a specific application, I believe it would be better to create a platform that allows other people to use low-power systems like this to their full potential.  <br><br>
 I still have some research to do, but essentially I'm going to create a consensus-based distributed computing platform for processing generic signals using the GPU. This could be anything from weather data to packet captures. Users will be able to connect to peers and decided on a pre-defined problem and dataset. <br><br>
 
-My task for this weekend is essentially to create a design documennt for this project. <br><br>
+My task for this weekend is essentially to create a design document for this project. <br><br>
 
 Just for fun, I've decided that I will also collect Joule/Hashrate numbers for Scrypt and SHA256 for the Jetson board. This requires that I make a port for CudaMiner from Intel to ARM architecture. I will do this as time permits.
