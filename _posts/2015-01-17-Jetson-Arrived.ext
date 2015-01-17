@@ -14,7 +14,7 @@ The Jetson board has finally made its way to me from San Francisco! The board ha
 <br>
 <br>
 Some of the most interesting basic data about a board like this is in power consumption. Idling and not consuming any CPU, the board uses about 2.8 Watts. Here's a breakdown of how power consumption looks. Please keep in mind these are averages.
-<br>
+<br><br>
 Idle: 2.8 W<br>
 CPU Heavy Load: 9.7 W<br>
 GPU Heavy Load: 4.7 W<br>
