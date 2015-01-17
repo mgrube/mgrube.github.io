@@ -2,7 +2,7 @@
 layout: post
 title:  "Board Has Arrived!"
 date:   2015-01-17 13:28:00
-categories: nviida tk1 projects
+categories: nvidia tk1 projects
 ---
 
 The Jetson board has finally made its way to me from San Francisco! The board has been re-flashed with the latest Jetpack distribution and updated with CUDA 6.5 drivers. So from a GPU computing standpoint, we're looking pretty good! Still waiting for the SSD to arrive, but that's not a roadblock at the moment. Here is the board in real life:
