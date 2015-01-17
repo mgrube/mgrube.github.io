@@ -23,7 +23,7 @@ Both Heavy Load: 12.0 W<br>
 <br>
 When you compare those numbers to a standard desktop GPU, which can consume hundreds of Watts, the difference is pretty substantial.<br><br>
 
-On the project front, I've decided on a direction to go. While it would be beneficial for people to try simple things like password cracking, cryptocurrency mining, or using OpenCV for a specific application, I believe it would be better to create a platform that allows other people to use low-power systems like this to their full potential. I believe these low-power GPU systems offer a new opportunity to <br><br>
+On the project front, I've decided on a direction to go. While it would be beneficial for people to try simple things like password cracking, cryptocurrency mining, or using OpenCV for a specific application, I believe it would be better to create a platform that allows other people to use low-power systems like this to their full potential.  <br><br>
 I still have some research to do, but essentially I'm going to create a consensus-based distributed computing platform for processing generic signals using the GPU. This could be anything from weather data to packet captures. Users will be able to connect to peers and decided on a pre-defined problem and dataset. <br><br>
 
 My task for this weekend is essentially to create a design documennt for this project. <br><br>
