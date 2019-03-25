@@ -1,4 +1,4 @@
-# Freenet as a self-scaling application backbone"
+# Freenet as a self-scaling application backbone
 
 Freenet is a private, decentralized file publication system that has existed since 1999. That means
 that as of later this year, Freenet will be 20 years old. Over the years, Freenet has evolved from
